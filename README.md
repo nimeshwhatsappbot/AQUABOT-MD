@@ -23,11 +23,11 @@ This project is still being tested
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/yP_YCd?referralCode=VN3jQs)
 ---------------------------------   
 
- ###  Developer :- Sanuwa-official 
+ ###  Developer :- SL-Nimesh-bot 
 
 ## Thanks To
-- [@adiwajshing](https://github.com/adiwajshing/) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
-- [@yusufusta](https://github.com/yusufusta/) for coded [WhatsAsena](https://github.com/yusufusta/WhatsAsena) 
+- [@adiwajshing](https://github.com/nimeshwhatsappbot) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
+- [@yusufusta](https://github.com/yusufusta/) for coded [WhatsAsena](https://chat.whatsapp.com/Bopki6IOujj6amH7AooggW) 
 - [@sisula](https://github.com/sisula/) & [@joka](https://github.com/MrJoka-Thejaka/) for all the helps 🤝
  
   
