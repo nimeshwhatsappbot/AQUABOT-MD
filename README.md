@@ -29,6 +29,25 @@ This project is still being tested
 - [@adiwajshing](https://github.com/nimeshwhatsappbot) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
 - [@yusufusta](https://github.com/yusufusta/) for coded [WhatsAsena](https://chat.whatsapp.com/Bopki6IOujj6amH7AooggW) 
 - [@sisula](https://github.com/sisula/) & [@joka](https://github.com/MrJoka-Thejaka/) for all the helps 🤝
- 
-  
+ replit.nix
+ { pkgs }: {
+    deps = [
+        pkgs.nodejs
+        pkgs.nodePackages.typescript
+        pkgs.ffmpeg
+        pkgs.imagemagick
+        pkgs.git
+        pkgs.neofetch
+        pkgs.libwebp
+        pkgs.speedtest-cli
+        pkgs.wget
+        pkgs.yarn
+        pkgs.libuuid
+    ];
+    env = {
+        LD_LIBRARY_PATH = pkgs.lib.makeLibraryPath [
+            pkgs.libuuid
+        ];
+    };
+} 
  
