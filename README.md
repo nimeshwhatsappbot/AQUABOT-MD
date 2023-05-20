@@ -22,7 +22,8 @@ This project is still being tested
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/yP_YCd?referralCode=VN3jQs)
 ---------------------------------   
-
+ ***Deploy on [`Deploy on replit`]( https://replit.com/@nimeshwhatsappb/AQUABOT-MD)***
+##
  ###  Developer :- SL-Nimesh-bot 
 
 ## Thanks To
